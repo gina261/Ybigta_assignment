@@ -1,0 +1,8 @@
+*.DS_Store
+*.csv
+0104_python+pandas/refer
+0104_python+pandas/input_data
+0104_python+pandas/output_data
+0105_crawling
+0104_git
+practice.ipynb
