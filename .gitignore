@@ -2,13 +2,18 @@
 *.csv
 *.pdf
 .gitignore
+practice.ipynb
+
 0104_python+pandas/refer
 0104_python+pandas/input_data
 0104_python+pandas/output_data
 0104_git_ignore
 
-0105_crawling
-practice.ipynb
+0105_crawling/0105_Beautifulsoup_실습.ipynb
+0105_crawling/chrome-mac-arm64
+0105_crawling/0105_Selenium_네이버토일웹툰_크롤링_실습
+0105_crawling/crawling_practice.ipynb
+
 
 0109_DB+SQL
 0109_EDA+FE
