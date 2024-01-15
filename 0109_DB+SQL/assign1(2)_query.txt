@@ -1,0 +1,6 @@
+SELECT CategoryName, SUM(Quantity) as TotalQuantity, SUM(Price * Quantity) as TotalPrice
+FROM Categories as C, Products as P, OrderDetails as OD
+WHERE C.CategoryID = P.CategoryID and OD.ProductID = P.ProductID
+GROUP BY CategoryName, P.CategoryID
+HAVING SUM(Quantity) > 2000
+ORDER BY SUM(Quantity) DESC;
