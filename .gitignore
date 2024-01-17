@@ -2,6 +2,7 @@
 *.csv
 *.pdf
 *.pptx
+*.docx
 .gitignore
 practice.ipynb
 
@@ -26,7 +27,8 @@ practice.ipynb
 0109_EDA+FE/Seaborn_(그래프모음).ipynb
 
 0111_linux+docker/dockerfile
-
+0111_restAPI/240111_REST_API_실습.ipynb
+0111_restAPI/240111_REST_API_과제.ipynb
 
 0116_statistics+regression
 0116_visualization
