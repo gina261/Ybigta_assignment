@@ -2,7 +2,6 @@
 *.csv
 *.pdf
 *.pptx
-*.png
 .gitignore
 practice.ipynb
 
@@ -19,8 +18,6 @@ practice.ipynb
 0105_huggingFace
 
 0109_DB+SQL/w3school.sql
-!assign1(1)-screenshot.png
-!assign1(2)-screenshot.png
 0109_EDA+FE/data
 0109_EDA+FE/추가과제
 0109_EDA+FE/prac.ipynb
@@ -28,7 +25,8 @@ practice.ipynb
 0109_EDA+FE/EDA_FE_세션(FE).ipynb
 0109_EDA+FE/Seaborn_(그래프모음).ipynb
 
-0111_linux+docker/Dockerfile
+0111_linux+docker/dockerfile
+
 
 0116_statistics+regression
 0116_visualization
