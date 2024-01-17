@@ -1,0 +1,4 @@
+FROM ubuntu:20.04
+WORKDIR /ybigta_homework
+RUN mkdir ybigta_homework && apt-get update && apt-get install -y python3 vim
+CMD [ "/bin/bash" ]
