@@ -1,5 +1,6 @@
 *.DS_Store
 *.csv
+*.xls
 *.pdf
 *.pptx
 *.docx
@@ -30,4 +31,8 @@ practice.ipynb
 0111_restAPI/240111_REST_API_실습.ipynb
 
 0116_statistics+regression
-0116_visualization
+0116_visualization/0116_시각화_실습및과제.ipynb
+
+0118_ML
+0118_MLP
+0119_CNN
