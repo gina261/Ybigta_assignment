@@ -30,9 +30,14 @@ practice.ipynb
 0111_linux+docker/dockerfile
 0111_restAPI/240111_REST_API_실습.ipynb
 
-0116_statistics+regression
-0116_visualization/0116_visualization_pracipynb
+0116_statistics+regression/0116_regression_prac.ipynb
+0116_visualization/0116_visualization_prac.ipynb
 
-0118_ML
+0118_ML/dataset
+0118_ML/prac.ipynb
+0118_ML/ML_실습_및_과제.ipynb
+
 0118_MLP
 0119_CNN
+0123_RNN
+0123_seq2seq+attention
