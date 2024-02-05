@@ -4,6 +4,7 @@
 *.pdf
 *.pptx
 *.docx
+*.pem
 .gitignore
 practice.ipynb
 
@@ -45,4 +46,6 @@ practice.ipynb
 0123_RNN/rnn_mit.ipynb
 
 0125_transformer
-0130_AWS
+
+!process4+5.png
+!ItWorks.png
